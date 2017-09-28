@@ -1,0 +1,15 @@
+{
+    "name": "dev/mvc.loc",
+    "authors": [
+        {
+            "name": "SergeyK",
+            "email": "skinsidex@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
